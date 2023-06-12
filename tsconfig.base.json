@@ -24,6 +24,7 @@
       "@nx-example/products/product-detail-page": [
         "libs/products/product-detail-page/src/index.ts"
       ],
+      "@nx-example/react-query": ["libs/react-query/src/index.ts"],
       "@nx-example/shared/cart/state": ["libs/shared/cart/state/src/index.ts"],
       "@nx-example/shared/cart/state/react": [
         "libs/shared/cart/state/src/react.ts"
